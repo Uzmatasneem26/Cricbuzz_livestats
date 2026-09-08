@@ -12,36 +12,7 @@ It integrates cricket match data (sample JSON or live API), stores it in a datab
 ## Features
 - 🌐 API integration (Cricbuzz/unofficial JSON or sample dataset)
 - 🗄️ SQLite database backend
-- 📊 Streamlit multi-page dashboard:
-  
-  - Home
-    
-    ![Home Page](screenshots/Home.png)
-
-  - Matches Overview
-  
-    ![Matches Page](screenshots/Matches.png)
-
-  - Players
-    
-    ![Players Page](screenshots/Players.png)
-
-  - Scorecards
-    
-    ![Scores](screenshots/Scores.png)
-
-  - SQL Queries (25 beginner–advanced questions)
-  
-    ![SQL Queries](screenshots/SQL_Queries.png)
-
-  - CRUD operations
-  
-    ![CRUD](screenshots/CRUD.png)
-  
-  - Visualizations (team, players, runs, wickets)
-  
-    ![Visualizations](screenshots/Visualizations.png)
-
+- 📊 Streamlit multi-page dashboard
 - 🔍 Custom SQL query interface
 - 📤 Export data to CSV
 - 📦 Deployable on Streamlit Cloud / Render
@@ -136,11 +107,3 @@ streamlit run streamlit\_app.py
 •	Inspired by Cricbuzz APIs and community-built cricket datasets
 
 ---
-
-## 👩‍💻 Author
-Ritu Thakur
-Data Analyst | SQL • Power BI • Python • Streamlit
-
-📍 Hyderabad, India
-
-📧 ritut452@gmail.com
